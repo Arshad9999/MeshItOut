@@ -1,22 +1,12 @@
 # TEAM-NAME-2023
 
-<head>
-  <style>
-    .notification-menu {
-      text-align: center;
-    }
-  </style>
-  <link rel="stylesheet" href="style/style.css">
-</head>
-<body>
-  <div class="notification-menu">
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Demo</a></li>
-      <li><a href="#">About</a></li>
-    </ul>
-  </div>
-</body>
+<div class="notification-menu">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Demo</a></li>
+    <li><a href="#">About</a></li>
+  </ul>
+</div>
 
 # About Kavach-2023
 
