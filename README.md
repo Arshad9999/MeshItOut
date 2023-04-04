@@ -1,23 +1,22 @@
 # TEAM-NAME-2023
 
 # About Kavach-2023
+---
 
 AICTE and BPRD Jointly Launch KAVACH-2023, Advancing India’s cyber-preparedness, KAVACH-2023, A National level Hackathon was launched to identify innovative ideas and technological solutions for addressing the cyber security and cybercrime.
 
----
-
 # Mesh Network App Detection
 
-**Problem Statement ID: <a href="https://kavach.mic.gov.in/kavach2023PS">KVH-015</a><br>
-Problem Statement Title : <a href="https://kavach.mic.gov.in/kavach2023PS">Mesh Network App Detection</a>
+**Problem Statement ID: **<a href="https://kavach.mic.gov.in/kavach2023PS">KVH-015</a><br>
+**Problem Statement Title : **<a href="https://kavach.mic.gov.in/kavach2023PS">Mesh Network App Detection</a>
 
-# Problem Statement
+# Problem Statement:
 
 ---
 
 Design and develop a technological solution for detecting apps like Fire chat that use Mesh Networking to connect users without cell service in a given area. The solution should be man-portable and should be able to scan an area corresponding to a relatable TSP-BTS(Telecommunications Service Provider-Base Transceiver Station).
 
-# Complexity of the Problem
+# Complexity of the Problem:
 
 ---
 
