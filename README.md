@@ -3,15 +3,15 @@ AICTE and BPRD Jointly Launch KAVACH-2023, Advancing India’s cyber-preparednes
 
 ---
 
-To detect apps that use Mesh Networking to connect users without cell service in a given area, we can develop a solution using radio frequency (RF) scanning. The solution will consist of two main components: a portable RF scanner and a software application that analyzes the RF data.
-
-The portable RF scanner will be designed to scan an area corresponding to a relatable TSP-BTS.
-
----
-
 **TSP-BTS: Telecommunications Service Provider-Base Transceiver Station**
 
 It refers to the infrastructure used by telecommunications service providers to provide cellular network coverage to their customers. A Base Transceiver Station (BTS) is a piece of equipment that connects mobile devices to the cellular network by transmitting and receiving radio signals. The BTS is typically connected to a larger network infrastructure, such as a Mobile Switching Center (MSC), which manages the routing of calls and data between different parts of the network. In the context of the problem statement, TSP-BTS refers to the specific area of cellular network coverage that the portable RF scanner will be scanning for Mesh Networking app signals.
+
+---
+
+To detect apps that use Mesh Networking to connect users without cell service in a given area, we can develop a solution using radio frequency (RF) scanning. The solution will consist of two main components: a portable RF scanner and a software application that analyzes the RF data.
+
+The portable RF scanner will be designed to scan an area corresponding to a relatable TSP-BTS.
 
 ---
 
