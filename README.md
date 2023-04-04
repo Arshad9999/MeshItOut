@@ -1,9 +1,81 @@
-# kavach2023-MeshNetworkAppDetection
+# TEAM-NAME-2023
+
+**About Kavach-2023**
+
 AICTE and BPRD Jointly Launch KAVACH-2023, Advancing India’s cyber-preparedness, KAVACH-2023, A National level Hackathon was launched to identify innovative ideas and technological solutions for addressing the cyber security and cybercrime.
 
 ---
 
+#Mesh Network App Detection
+
+Problem Statement ID: KVH-015
+Problem Statement Title : Mesh Network App Detection
+
+**Problem Statement**
+
+---
+
+Design and develop a technological solution for detecting apps like Fire chat that use Mesh Networking to connect users without cell service in a given area. The solution should be man-portable and should be able to scan an area corresponding to a relatable TSP-BTS.
+
+**Complexity of the Problem**
+
+---
+
+Applications for mesh networking can send signals over a range of frequency bands, including unauthorised ones. Due to the possibility that these signals may not adhere to the typical cellular network frequencies, it may be challenging to detect and distinguish them.
+
+Signals are influenced by a variety of environmental elements, including buildings, trees, and other obstacles, in the continuously changing RF environment. As a result, it could be difficult to precisely detect and locate Mesh Networking app signals.
+
+To protect the confidentiality and security of user data, Mesh Networking apps can employ a variety of encryption and security mechanisms. It may be difficult to recognise and decode these signals as a result.
+
+The fact that Mesh Networking apps are intended to function in locations without cell coverage makes it more difficult to identify their signals. This calls for the portable RF scanner to be capable of picking up signals even in places where cellular network coverage is not present.
+
+**Novelty of the Project**
+
+---
+
+Develop a unique portable RF scanner: Your group can create a portable RF analyzer that is more precise, efficient, and effective than current options. This may entail adopting new signal processing algorithms, using new hardware components, or optimising the architecture.
+
+Integrate machine learning algorithms: In order to increase the precision of recognising and distinguishing Mesh Networking app signals, your team can incorporate machine learning algorithms into the software application. This may entail creating fresh algorithms, applying deep learning strategies, or putting the algorithms through training on a bigger collection of RF data.
+
+Use blockchain technology for security and privacy: To guarantee the security and anonymity of the Mesh Networking app signals that have been identified, your team may want to consider using blockchain technology. This may entail creating a protocol based on blockchain technology for safely sending and keeping the signals.
+
+Develop a user-friendly interface: Your team can concentrate on creating a user-friendly UI for the software programme so that non-technical users can easily comprehend and utilise the answer. This may entail incorporating vocal instructions, streamlining the user interface, or using intuitive visuals.
+
+Improve power efficiency: By utilising new battery technologies or streamlining the hardware and software elements, your team can work to increase the power efficacy of the handheld RF scanner. The answer may become more accessible and practical to use in the field as a result.
+
+**Feasibility**
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **TSP-BTS: Telecommunications Service Provider-Base Transceiver Station**
+
+---
 
 It refers to the infrastructure used by telecommunications service providers to provide cellular network coverage to their customers. A Base Transceiver Station (BTS) is a piece of equipment that connects mobile devices to the cellular network by transmitting and receiving radio signals. The BTS is typically connected to a larger network infrastructure, such as a Mobile Switching Center (MSC), which manages the routing of calls and data between different parts of the network. In the context of the problem statement, TSP-BTS refers to the specific area of cellular network coverage that the portable RF scanner will be scanning for Mesh Networking app signals.
 
