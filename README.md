@@ -1,7 +1,7 @@
 # TEAM-NAME-2023
 
 <div class="notification-menu" link rel="stylesheet" href="style.css">
-  <a href="https://Arshad9999.github.io/2023-MeshNetworkAppDetection">Home</a>&nbsp;&nbsp;&nbsp;<a href="https://Arshad9999.github.io/2023-MeshNetworkAppDetection">Demo</a>&nbsp;&nbsp;&nbsp;<a href="https://Arshad9999.github.io/2023-MeshNetworkAppDetection/about-kavach">About</a>
+  <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
   <ul>
     <li><a href="#">Home</a></li>
     <li><a href="#">Demo</a></li>
