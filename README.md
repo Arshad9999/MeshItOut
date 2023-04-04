@@ -1,12 +1,7 @@
 # TEAM-NAME-2023
 
-<div class="notification-menu" link rel="stylesheet" href="style.css">
+<div class="notification-menu" link rel="stylesheet" href="style/style.css">
   <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Demo</a></li>
-    <li><a href="#">About</a></li>
-  </ul>
 </div>
 
 # About Kavach-2023
