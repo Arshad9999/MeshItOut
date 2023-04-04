@@ -1,12 +1,12 @@
 # TEAM-NAME-2023
 
 <div class="notification-menu" link rel="stylesheet" href="style/style.css">
-  <div align="center"><link rel="stylesheet" href="style/style.css"
+  <div align="center"><link rel="stylesheet" href="style/style.css">
       <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach" text-align: center>About</a>
   </link></div>
 </div>
 
-<div align="center"><b><font size="64">Mesh Network App Detection</font></b></div>
+<div align="center"><b><font size="64"><h1>Mesh Network App Detection</h1></font></b></div>
 
 <strong>Problem Statement ID: </strong>
 <a href="https://kavach.mic.gov.in/kavach2023PS">KVH-015</a><br>
