@@ -8,14 +8,14 @@ AICTE and BPRD Jointly Launch KAVACH-2023, Advancing India’s cyber-preparednes
 
 # Mesh Network App Detection
 
-Problem Statement ID: <a href="https://www.example.com">KVH-015</a><br>
-Problem Statement Title : <a href="https://www.example.com">Mesh Network App Detection</a>
+**Problem Statement ID: <a href="https://kavach.mic.gov.in/kavach2023PS">KVH-015</a><br>
+Problem Statement Title : <a href="https://kavach.mic.gov.in/kavach2023PS">Mesh Network App Detection</a>
 
 # Problem Statement
 
 ---
 
-Design and develop a technological solution for detecting apps like Fire chat that use Mesh Networking to connect users without cell service in a given area. The solution should be man-portable and should be able to scan an area corresponding to a relatable TSP-BTS.
+Design and develop a technological solution for detecting apps like Fire chat that use Mesh Networking to connect users without cell service in a given area. The solution should be man-portable and should be able to scan an area corresponding to a relatable TSP-BTS(Telecommunications Service Provider-Base Transceiver Station).
 
 # Complexity of the Problem
 
@@ -29,73 +29,49 @@ To protect the confidentiality and security of user data, Mesh Networking apps c
 
 The fact that Mesh Networking apps are intended to function in locations without cell coverage makes it more difficult to identify their signals. This calls for the portable RF scanner to be capable of picking up signals even in places where cellular network coverage is not present.
 
-# Novelty of the Project
+Require a significant investment of time, resources, and expertise.
+
+# Novelty of the Project:
 
 ---
 
-Develop a unique portable RF scanner: Your group can create a portable RF analyzer that is more precise, efficient, and effective than current options. This may entail adopting new signal processing algorithms, using new hardware components, or optimising the architecture.
+Develop a unique portable RF scanner: A portable RF analyzer that is more precise, efficient, and effective than current options. This may entail adopting new signal processing algorithms, using new hardware components, or optimising the architecture.
 
-Integrate machine learning algorithms: In order to increase the precision of recognising and distinguishing Mesh Networking app signals, your team can incorporate machine learning algorithms into the software application. This may entail creating fresh algorithms, applying deep learning strategies, or putting the algorithms through training on a bigger collection of RF data.
+Integrate machine learning algorithms: In order to increase the precision of recognising and distinguishing Mesh Networking app signals, we wil incorporate machine learning algorithms into the software application. This may entail creating fresh algorithms, applying deep learning strategies, or putting the algorithms through training on a bigger collection of RF data.
 
-Use blockchain technology for security and privacy: To guarantee the security and anonymity of the Mesh Networking app signals that have been identified, your team may want to consider using blockchain technology. This may entail creating a protocol based on blockchain technology for safely sending and keeping the signals.
+Use blockchain technology for security and privacy: To guarantee the security and anonymity of the Mesh Networking app signals that have been identified, we will consider using blockchain technology. This may entail creating a protocol based on blockchain technology for safely sending and keeping the signals.
 
-Develop a user-friendly interface: Your team can concentrate on creating a user-friendly UI for the software programme so that non-technical users can easily comprehend and utilise the answer. This may entail incorporating vocal instructions, streamlining the user interface, or using intuitive visuals.
+Develop a user-friendly interface: A user-friendly UI for the software programme so that non-technical users can easily comprehend and utilise the answer. This may entail incorporating vocal instructions, streamlining the user interface, or using intuitive visuals.
 
-Improve power efficiency: By utilising new battery technologies or streamlining the hardware and software elements, your team can work to increase the power efficacy of the handheld RF scanner. The answer may become more accessible and practical to use in the field as a result.
+Improve power efficiency: By utilising new battery technologies or streamlining the hardware and software elements, we will increase the power efficacy of the handheld RF scanner. It will be more accessible and practical to use in the field as a result.
 
-# Feasibility
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**TSP-BTS: Telecommunications Service Provider-Base Transceiver Station**
+# Feasibility:
 
 ---
 
-It refers to the infrastructure used by telecommunications service providers to provide cellular network coverage to their customers. A Base Transceiver Station (BTS) is a piece of equipment that connects mobile devices to the cellular network by transmitting and receiving radio signals. The BTS is typically connected to a larger network infrastructure, such as a Mobile Switching Center (MSC), which manages the routing of calls and data between different parts of the network. In the context of the problem statement, TSP-BTS refers to the specific area of cellular network coverage that the portable RF scanner will be scanning for Mesh Networking app signals.
+Meeting the demands of government agencies, law enforcement, and security firms interested in monitoring Mesh Networking activity in specific areas.
+
+The potential benefits outweigh the costs and risks.
+
+This system will detect Mesh Networking apps using a man-portable device that can scan an area corresponding to a relatable TSP-BTS.
+
+# Scalability:
 
 ---
 
-To detect apps that use Mesh Networking to connect users without cell service in a given area, we can develop a solution using radio frequency (RF) scanning. The solution will consist of two main components: a portable RF scanner and a software application that analyzes the RF data.
+As the number of users and devices using Mesh Networking technology continues to grow, the demand for a scalable detection system will also increase.
 
-The portable RF scanner will be designed to scan an area corresponding to a relatable TSP-BTS.
+The detection system will be designed with modular and scalable architecture that allows for easy expansion and integration with other security and monitoring systems.
+
+Using advanced machine learning algorithms and big data analytics tools, The detection system should be able to collect and analyze data from multiple sources, including Wi-Fi and Bluetooth signals, and provide real-time alerts and notifications to security personnel.
+
+# Usage
 
 ---
 
-The scanner will operate in the unlicensed frequency bands commonly used by Mesh Networking apps, such as 2.4 GHz and 5 GHz. The scanner will be designed to detect the unique RF signals generated by Mesh Networking apps and record the signal strength, frequency, and other relevant parameters.
+# Conclusion:
 
-The software application will be designed to analyze the RF data collected by the scanner and identify Mesh Networking apps. The application will use signal processing algorithms to analyze the RF data and identify patterns associated with Mesh Networking apps. The application will then provide a list of detected Mesh Networking apps along with information about the detected signals, including signal strength, frequency, and location.
+---
 
-The solution can be further enhanced by using machine learning algorithms to analyze the RF data and identify patterns associated with Mesh Networking apps more accurately. The machine learning algorithms can be trained using a large dataset of RF data collected from various locations.
-
-To ensure the solution is man-portable, the portable RF scanner can be designed to be lightweight and compact, and the software application can be designed to run on a smartphone or tablet. The solution can also be made easy to use by providing a simple user interface that displays the detected Mesh Networking apps and their associated signals.
-
-In summary, a technological solution for detecting apps that use Mesh Networking to connect users without cell service in a given area can be designed and developed using a portable RF scanner and a software application that analyzes the RF data. The solution can be enhanced using machine learning algorithms and can be made man-portable by designing the scanner and software application to be lightweight and easy to use.
-
-
+In conclusion, the Mesh Networking detection system provides a scalable, portable, and effective solution for detecting Mesh Networking apps in certain areas. With the right combination of scanning devices, wireless network adapters, detection software, cloud-based infrastructure, and reporting and analytics tools, this system can help government agencies, law enforcement, and security firms identify potential threats and take proactive measures to ensure public safety.
 
