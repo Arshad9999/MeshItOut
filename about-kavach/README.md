@@ -1,5 +1,5 @@
-<div class="notification-menu" link rel="stylesheet" href="style/style.css" text-align: center>
-  <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
+<div class="notification-menu" style="link rel="stylesheet" href="../style/style.css"" style="text-align: center;">
+  <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach" text-align: center>About</a>
 </div>
 
 # kavach2023-MeshNetworkAppDetection
