@@ -1,12 +1,12 @@
 # TEAM-NAME-2023
 
 <link rel="stylesheet" href="style/style.css">
-<div class="notification-menu">
+<div class="notification-menu" style="text-align: center;">
   <div align="center">
       Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
   </div>
 </div>
-
+</link>
 
 <div align="center"><b><h1>Mesh Network App Detection</h1></b></div>
 
@@ -33,7 +33,7 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 5. Require a significant investment of time, resources, and expertise.
 
-<div align="center"><b><h2>Novelty of the Project:</h2></b></div>
+<div align="center"><b><h2>Novelty of the Project</h2></b></div>
 
 ---
 1. <strong>Develop a unique portable RF scanner: </strong>A portable RF analyzer that is more precise, efficient, and effective than current options. This may entail adopting new signal processing algorithms, using new hardware components, or optimising the architecture.
@@ -46,7 +46,7 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 5. <strong>Improve power efficiency: </strong>By utilising new battery technologies or streamlining the hardware and software elements, we will increase the power efficacy of the handheld RF scanner. It will be more accessible and practical to use in the field as a result.
 
-<div align="center"><b><h2>Feasibility:</h2></b></div>
+<div align="center"><b><h2>Feasibility</h2></b></div>
 
 ---
 1. Meeting the demands of government agencies, law enforcement, and security firms interested in monitoring Mesh Networking activity in specific areas.
@@ -55,7 +55,7 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 3. This system will detect Mesh Networking apps using a man-portable device that can scan an area corresponding to a relatable TSP-BTS.
 
-<div align="center"><b><h2>Scalability:</h2></b></div>
+<div align="center"><b><h2>Scalability</h2></b></div>
 
 ---
 1. As the number of users and devices using Mesh Networking technology continues to grow, the demand for a scalable detection system will also increase.
@@ -64,10 +64,10 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 3. Using advanced machine learning algorithms and big data analytics tools, The detection system should be able to collect and analyze data from multiple sources, including Wi-Fi and Bluetooth signals, and provide real-time alerts and notifications to security personnel.
 
-<div align="center"><b><h2>Usage:</h2></font></b></div>
+<div align="center"><b><h2>Usage</h2></font></b></div>
 
 ---
-<div align="center"><b><h2>Conclusion:</h2></b></div>
+<div align="center"><b><h2>Conclusion</h2></b></div>
 
 ---
 In conclusion, the Mesh Networking detection system provides a scalable, portable, and effective solution for detecting Mesh Networking apps in certain areas. With the right combination of scanning devices, wireless network adapters, detection software, cloud-based infrastructure, and reporting and analytics tools, this system can help government agencies, law enforcement, and security firms identify potential threats and take proactive measures to ensure public safety.
