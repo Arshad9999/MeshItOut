@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style/style.css">
 <div class="notification-menu" link rel="stylesheet" href="style/style.css">
   <div align="center">
-      <a href="..">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
+      <a href="../../2023-MeshNetworkAppDetection">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
   </div>
 </div>
 </link>
