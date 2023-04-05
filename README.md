@@ -6,7 +6,6 @@
       Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
   </div>
 </div>
-</link>
 
 <div align="center"><b><h1>Mesh Network App Detection</h1></b></div>
 
