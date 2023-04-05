@@ -1,7 +1,7 @@
 <div class="notification-menu" style="text-align: center;">
-  <div align="center"><link rel="stylesheet" href="../style/style.css">
+  <div align="center">
     <a href="../../../">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach" text-align: center>About</a>
-  </link></div>
+  </div>
 </div>
 
 <div align="center"><b><h1>kavach2023-MeshNetworkAppDetection</h1></b></div>
