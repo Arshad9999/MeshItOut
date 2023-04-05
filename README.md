@@ -3,12 +3,12 @@
 <link rel="stylesheet" href="style/style.css">
 <div class="notification-menu" link rel="stylesheet" href="style/style.css">
   <div align="center">
-      <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
+      <a href="../">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
   </div>
 </div>
 </link>
 
-<div align="center"><b><font size="64"><h1>Mesh Network App Detection</h1></font></b></div>
+<div align="center"><b><h1>Mesh Network App Detection</h1></b></div>
 
 <strong>Problem Statement ID: </strong>
 <a href="https://kavach.mic.gov.in/kavach2023PS">KVH-015</a><br>
