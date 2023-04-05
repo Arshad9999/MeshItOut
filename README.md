@@ -2,7 +2,7 @@
 
 <div class="notification-menu" link rel="stylesheet" href="style/style.css">
   <div align="center"><link rel="stylesheet" href="style/style.css">
-      <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach" text-align: center>About</a>
+      <a href="README.md">Home</a>&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach" text-align: center>About</a>
   </link></div>
 </div>
 
