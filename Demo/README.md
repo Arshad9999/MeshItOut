@@ -4,7 +4,6 @@
       <a href="../">Home</a>&nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
   </div>
 </div>
-</link>
 
 <div align="center"><b><h2>For developing a system that can detect apps like fire chat that uses Mesh network to connect user over wifi and Bluetooth here are few things that one have to consider first:</h2></b></div>
 
