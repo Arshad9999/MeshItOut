@@ -1,7 +1,7 @@
 
 <div class="notification-menu">
   <div align="center">
-      <a href="../../..">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
+      <a href="../../">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
   </div>
 </div>
 
