@@ -8,8 +8,6 @@
 
 <div align="center"><b><h2>For developing a system that can detect apps like fire chat that uses Mesh network to connect user over wifi and Bluetooth here are few things that one have to consider first:</h2></b></div>
 
----
-
 <div align="center"><b><h3>how communication is done over wifi and bluetooth</h3></b></div>
 
 ---
@@ -35,64 +33,64 @@ The thing is that <a href="https://en.wikipedia.org/wiki/Wi-Fi_6">Wi-Fi communic
   </thead>
   <tbody>
     <tr>
-      <td>Wi-Fi 7</td>
-      <td>802.11be</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11be">Wi-Fi 7</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11be">802.11be</a></td>
       <td>2024</td>
       <td>1376 to 46120</td>
       <td>2.4/5/6</td>
     </tr>
     <tr>
-      <td>Wi-Fi 6E</td>
-      <td>802.11ax</td>
+      <td><a href="https://en.wikipedia.org/wiki/Wi-Fi_6">Wi-Fi 6E</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Wi-Fi_6">802.11ax</a></td>
       <td>2020</td>
       <td>574 to 9608</td>
       <td>6</td>
     </tr>
     <tr>
-      <td>Wi-Fi 6</td>
-      <td>802.11ax</td>
+      <td><a href="https://en.wikipedia.org/wiki/Wi-Fi_6">Wi-Fi 6</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Wi-Fi_6">802.11ax</a></td>
       <td>2019</td>
       <td>574 to 9608</td>
       <td>2.4/5</td>
     </tr>
     <tr>
-      <td>Wi-Fi 5</td>
-      <td>802.11ac</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11ac-2013">Wi-Fi 5</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11ac-2013">802.11ac</a></td>
       <td>2014</td>
       <td>433 to 6933</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Wi-Fi 4</td>
-      <td>802.11n</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11n-2009">Wi-Fi 4</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11n-2009">802.11n</a></td>
       <td>2008</td>
       <td>72 to 600</td>
       <td>2.4/5</td>
     </tr>
     <tr>
-      <td>Wi-Fi 3</td>
-      <td>802.11g</td>
+      <td>(Wi-Fi 3)*</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11g-2003">802.11g</a></td>
       <td>2003</td>
       <td>6 to 54</td>
       <td>2.4</td>
     </tr>
     <tr>
-      <td>Wi-Fi 2</td>
-      <td>802.11a</td>
+      <td>(Wi-Fi 2)*</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11a-1999">802.11a</a></td>
       <td>1999</td>
       <td>6 to 54</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Wi-Fi 1</td>
-      <td>802.11b</td>
+      <td>(Wi-Fi 1)*</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11b-1999">802.11b</a></td>
       <td>1999</td>
       <td>1 to 11</td>
       <td>2.4</td>
     </tr>
     <tr>
-      <td>Wi-Fi 0</td>
-      <td>802.11</td>
+      <td>(Wi-Fi 0)*</td>
+      <td><a href="https://en.wikipedia.org/wiki/IEEE_802.11_(legacy_mode)">802.11</a></td>
       <td>1997</td>
       <td>1 to 2</td>
       <td>2.4</td>
