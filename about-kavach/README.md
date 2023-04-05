@@ -1,6 +1,6 @@
 <div class="notification-menu" style="text-align: center;">
   <div align="center">
-    <a href="../../../">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="../about-kavach" text-align: center>About</a>
+    <a href="../../../">Home</a>&nbsp;&nbsp;&nbsp;<a href="../Demo">Demo</a>&nbsp;&nbsp;&nbsp;About
   </div>
 </div>
 
