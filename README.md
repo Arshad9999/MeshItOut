@@ -3,7 +3,7 @@
 <!-- <link rel="stylesheet" href="style/style.css">-->
 <div class="notification-menu" style="text-align: center;">
   <div align="center">
-      Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About</a>
+      Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About Kavach</a>
   </div>
 </div>
 
