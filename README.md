@@ -1,4 +1,4 @@
-# TEAM-NAME-2023
+# TEAM-NAME-2023: HashItOut
 
 <!-- <link rel="stylesheet" href="style/style.css">-->
 <div class="notification-menu" style="text-align: center;">
@@ -63,7 +63,7 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 3. Using advanced machine learning algorithms and big data analytics tools, The detection system should be able to collect and analyze data from multiple sources, including Wi-Fi and Bluetooth signals, and provide real-time alerts and notifications to security personnel.
 
-<div align="center"><b><h2>Usage</h2></font></b></div>
+<div align="center"><b><h2>Usage</h2></b></div>
 
 ---
 <div align="center"><b><h2>Conclusion</h2></b></div>
