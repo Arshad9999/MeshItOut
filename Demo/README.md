@@ -1,10 +1,9 @@
 <link rel="stylesheet" href="style/style.css">
 <div class="notification-menu" style="text-align: center;">
   <div align="center">
-      <a href="../">Home</a>&nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About</a>
+      <a href="../">Home</a>&nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;<a href="../about-kavach">About-Kavach</a>
   </div>
 </div>
-</link>
 
 <div align="center"><b><h2>For developing a system that can detect apps like fire chat that uses Mesh network to connect user over wifi and Bluetooth here are few things that one have to consider first:</h2></b></div>
 
