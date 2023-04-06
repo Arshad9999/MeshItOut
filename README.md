@@ -3,7 +3,7 @@
 <!-- <link rel="stylesheet" href="style/style.css">-->
 <div class="notification-menu" style="text-align: center;">
   <div align="center">
-      Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About Kavach</a>
+      Home&nbsp;&nbsp;&nbsp;<a href="Demo">Demo</a>&nbsp;&nbsp;&nbsp;<a href="about-kavach">About-Kavach</a>
   </div>
 </div>
 
@@ -39,11 +39,11 @@ Design and develop a technological solution for detecting apps like Fire chat th
 
 2. <strong>Integrate machine learning algorithms: </strong>In order to increase the precision of recognising and distinguishing Mesh Networking app signals, we wil incorporate machine learning algorithms into the software application. This may entail creating fresh algorithms, applying deep learning strategies, or putting the algorithms through training on a bigger collection of RF data.
 
-3. <strong>Use blockchain technology for security and privacy: </strong>To guarantee the security and anonymity of the Mesh Networking app signals that have been identified, we will consider using blockchain technology. This may entail creating a protocol based on blockchain technology for safely sending and keeping the signals.
+<!--3. <strong>Use blockchain technology for security and privacy: </strong>To guarantee the security and anonymity of the Mesh Networking app signals that have been identified, we will consider using blockchain technology. This may entail creating a protocol based on blockchain technology for safely sending and keeping the signals.-->
 
-4. <strong>Develop a user-friendly interface: </strong>A user-friendly UI for the software programme so that non-technical users can easily comprehend and utilise the answer. This may entail incorporating vocal instructions, streamlining the user interface, or using intuitive visuals.
+3. <strong>Develop a user-friendly interface: </strong>A user-friendly UI for the software programme so that non-technical users can easily comprehend and utilise the answer. This may entail incorporating vocal instructions, streamlining the user interface, or using intuitive visuals.
 
-5. <strong>Improve power efficiency: </strong>By utilising new battery technologies or streamlining the hardware and software elements, we will increase the power efficacy of the handheld RF scanner. It will be more accessible and practical to use in the field as a result.
+4. <strong>Improve power efficiency: </strong>By utilising new battery technologies or streamlining the hardware and software elements, we will increase the power efficacy of the handheld RF scanner. It will be more accessible and practical to use in the field as a result.
 
 <div align="center"><b><h2>Feasibility</h2></b></div>
 
