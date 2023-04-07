@@ -14,12 +14,12 @@
 <strong>Problem Statement Title : </strong>
 <a href="https://kavach.mic.gov.in/kavach2023PS">Mesh Network App Detection</a>
 
-<div align="center"><b><h2>Problem Statement:</h2></b></div>
+<div align="center"><b><h2>Problem Statement</h2></b></div>
 
 ---
 Design and develop a technological solution for detecting apps like Fire chat that use Mesh Networking to connect users without cell service in a given area. The solution should be man-portable and should be able to scan an area corresponding to a relatable TSP-BTS(Telecommunications Service Provider-Base Transceiver Station).
 
-<div align="center"><b><h2>Complexity of the Problem:</h2></b></div>
+<div align="center"><b><h2>Complexity of the Problem</h2></b></div>
 
 ---
 1. Applications for mesh networking can send signals over a range of frequency bands, including unauthorised ones. Due to the possibility that these signals may not adhere to the typical cellular network frequencies, it may be challenging to detect and distinguish them.
