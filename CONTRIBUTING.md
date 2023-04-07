@@ -1,5 +1,5 @@
-# Contributing to 2023-MeshNetworkAppDetection
-Thank you for considering to contribute to 2023-MeshNetworkAppDetection!
+# Contributing to MeshItOut
+Thank you for considering to contribute to MeshItOut!
 
 
 ## Pull Requests
@@ -21,5 +21,5 @@ When submitting an issue, please make sure to use the appropriate template.
 
 
 ## License
-By contributing to 2023-MeshNetworkAppDetection, you agree that your contributions will be licensed
+By contributing to MeshItOut, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of the source tree.
