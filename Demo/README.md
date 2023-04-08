@@ -7,7 +7,7 @@
 
 <div align="center"><b><h2>For developing a system that can detect apps like fire chat that uses Mesh network to connect user over wifi and Bluetooth here are few things that one have to consider first:</h2></b></div>
 
-<div align="center"><b><h3>how communication is done over wifi and bluetooth</h3></b></div>
+<div align="center"><b><h3>How communication is done over wifi and bluetooth</h3></b></div>
 
 ---
 <div align="justify"><p>
