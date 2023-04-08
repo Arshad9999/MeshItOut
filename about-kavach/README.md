@@ -17,10 +17,11 @@ The Centre launched a national-level ‘hackathon’ on Thursday with the aim to
 
 ---
 <div align="justify">
-1. KAVACH-2023 is a unique kind of national hackathon jointly conducted by MoE’s Innovation Cell, AICTE, Bureau of Police Research and Development (BPR&D, MHA) and Indian Cyber Crime Coordination Centre (I4C, MHA) to identify innovative ideas and technological solutions for addressing the cyber security and cybercrime challenges of the 21st century faced by our Law Enforcement Agencies and common citizens.
-2. KAVACH-2023 will be conducted in two phases. In the first phase, the problem statements, grouped into various buckets such as Fake News/social media, Dark web, Women safety, Phishing Detection, Video analytics/CCTV, Obscene Content Detection, Spam Alert, and Malware Analysis/Digital Forensics shall be posed to the public.
-3. Second phase which shall culminate with Grand Finale, selected participants will be expected to demonstrate their solutions for ascertaining technical feasibility and implementability of their solutions. Best ideas will be declared winners by the jury.
-4. Willing participants are expected to develop digital solutions for the statements using robust technologies like Artificial Intelligence/Machine Learning, Deep Learning, Augmented Reality/Virtual Reality, etc. and submit their concepts on the portal of Kavach-2023.</div>
+<ol>
+<li>KAVACH-2023 is a unique kind of national hackathon jointly conducted by MoE’s Innovation Cell, AICTE, Bureau of Police Research and Development (BPR&D, MHA) and Indian Cyber Crime Coordination Centre (I4C, MHA) to identify innovative ideas and technological solutions for addressing the cyber security and cybercrime challenges of the 21st century faced by our Law Enforcement Agencies and common citizens.</li>
+<li>KAVACH-2023 will be conducted in two phases. In the first phase, the problem statements, grouped into various buckets such as Fake News/social media, Dark web, Women safety, Phishing Detection, Video analytics/CCTV, Obscene Content Detection, Spam Alert, and Malware Analysis/Digital Forensics shall be posed to the public.</li>
+<li>Second phase which shall culminate with Grand Finale, selected participants will be expected to demonstrate their solutions for ascertaining technical feasibility and implementability of their solutions. Best ideas will be declared winners by the jury.</li>
+<li>Willing participants are expected to develop digital solutions for the statements using robust technologies like Artificial Intelligence/Machine Learning, Deep Learning, Augmented Reality/Virtual Reality, etc. and submit their concepts on the portal of Kavach-2023.</li></ol></div>
 
 
 
