@@ -7,14 +7,15 @@
 
 <div align="center"><b><h2>For developing a system that can detect apps like fire chat that uses Mesh network to connect user over wifi and Bluetooth here are few things that one have to consider first:</h2></b></div>
 
-<div align="center"><b><h3>how communication is done over wifi and bluetooth</h3></b></div>
+<div align="center"><b><h3>How communication is done over wifi and bluetooth</h3></b></div>
 
 ---
-
-WiFi and Bluetooth are two wireless communication technologies that enable devices to communicate with each other without the need for physical cables. While both technologies enable wireless communication, they operate in different ways.
-WiFi operates over a wireless network using radio waves to transmit data. The device sends data to the router, which then broadcasts the data over the wireless network. The receiving device picks up the signal and decodes it to retrieve the data. WiFi can transmit data at higher speeds than Bluetooth, making it suitable for applications such as streaming video, downloading large files, and browsing the internet.
-Bluetooth, on the other hand, is a short-range wireless communication technology that operates over radio waves in the 2.4 GHz frequency range. Bluetooth devices connect to each other using a process called pairing, which involves exchanging security codes to establish a secure connection. Once the connection is established, the devices can exchange data such as files, music, and other types of media. Bluetooth is suitable for low-power, short-range communication, such as connecting a smartphone to a wireless speaker or headphones.
-In summary, WiFi and Bluetooth are two wireless communication technologies that enable devices to communicate with each other wirelessly, but they operate in different ways and are suitable for different applications. WiFi is designed for high-speed, long-range communication, while Bluetooth is designed for low-power, short-range communication.
+<div align="justify"><p>
+WiFi and Bluetooth are two wireless communication technologies that enable devices to communicate with each other without the need for physical cables. While both technologies enable wireless communication, they operate in different ways.</p>
+<p>WiFi operates over a wireless network using radio waves to transmit data. The device sends data to the router, which then broadcasts the data over the wireless network. The receiving device picks up the signal and decodes it to retrieve the data. WiFi can transmit data at higher speeds than Bluetooth, making it suitable for applications such as streaming video, downloading large files, and browsing the internet.</p>
+<p>Bluetooth, on the other hand, is a short-range wireless communication technology that operates over radio waves in the 2.4 GHz frequency range. Bluetooth devices connect to each other using a process called pairing, which involves exchanging security codes to establish a secure connection. Once the connection is established, the devices can exchange data such as files, music, and other types of media. Bluetooth is suitable for low-power, short-range communication, such as connecting a smartphone to a wireless speaker or headphones.</p>
+<p>In summary, WiFi and Bluetooth are two wireless communication technologies that enable devices to communicate with each other wirelessly, but they operate in different ways and are suitable for different applications. WiFi is designed for high-speed, long-range communication, while Bluetooth is designed for low-power, short-range communication.</p>
+</div>
 
 ---
 
@@ -99,8 +100,8 @@ The thing is that <a href="https://en.wikipedia.org/wiki/Wi-Fi_6">Wi-Fi communic
 
 And Bluetooth communication can be done over 2.4 Ghz and with 79 to 40 channels depending upon the needs.
 So to make a system that can detect these type of apps we must have to understand working of these apps .
-
-These apps allow users to connect to each other over Wi-Fi and Bluetooth without the need of internet or cellular connection creating a local area network but with these type of apps this network can be chained up to create a WAN so to detect this type of network we have to enter the network using wifite or Namp then by creating a fake ssid of same name we can perform a false handshake then after entering in that network we can check each nodes and no of connection to that particular node.
+<div align="justify"><p>
+These apps allow users to connect to each other over Wi-Fi and Bluetooth without the need of internet or cellular connection creating a local area network but with these type of apps this network can be chained up to create a WAN so to detect this type of network we have to enter the network using wifite or Namp then by creating a fake ssid of same name we can perform a false handshake then after entering in that network we can check each nodes and no of connection to that particular node.</p></div>
 <div>
 <img src="../material/ss01.jpeg">
 <img src="../material/ss02.jpeg">
